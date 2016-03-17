@@ -1,2 +1,2 @@
 # hello-word
-trying git hub 
+trying to understand how to use this...
